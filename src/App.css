@@ -1,0 +1,119 @@
+*
+{
+ box-sizing: border-box;
+} 
+
+.nav
+{
+  
+  box-shadow: 0px 2.9825px 7.4564px;
+}
+
+.image
+{
+  padding:20px 36px;
+  background: 100%;
+  
+}
+
+.grid
+{
+  padding-left: 20px;
+}
+ main>p
+ {
+  font-family: Poppins;
+font-size: 16px;
+font-weight: 300;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+ }
+   .image1
+   {
+    height: 100px;
+width: 100px;
+left: 37px;
+top: 521px;
+border-radius: 9px;
+
+
+   }
+    
+
+   .card-container
+   {
+      
+      display: grid;
+      grid-template-columns: repeat(6,1fr);
+
+   }
+   
+   .card1
+   { 
+    display: flex;
+    align-items: center;
+    font-family: Poppins;
+      font-size: 12px;
+      font-weight: 300;
+      line-height: 13px;
+      letter-spacing: 0em;
+      text-align: left; 
+   }
+
+   .info
+   {
+    display: inline;
+    align-content: center;
+   }
+
+   .bold
+   {
+    font-weight: bold;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .star
+   {
+    display: inline;
+    align-content: center;
+   }
